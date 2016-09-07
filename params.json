@@ -1,0 +1,6 @@
+{
+  "name": "malletjo.github.io",
+  "tagline": "Personal page",
+  "body": "### Introduction\r\nWeb developer during the day and web developer during the night. Pretty hard to turn the brain off. Love to learn and code. This is my personal page.\r\n\r\n### Background\r\nBA in computer science from Université de Montréal. Always been a fan of open source but never been a big contributor. One day, maybe it will change.\r\n\r\n### Private Project/Website\r\n\r\n1. (2016) Looking-for-a-name.com\r\n * Brand new project\r\n * Technology at the moment: Go + React + ArrangoDB\r\n2. (2016) [tchatty.com](https://tchatty.com)\r\n * Beta, not ready for production but functional\r\n * Learn a new language as you chat\r\n * Live-chat-translation system\r\n * Technology: Python/Tornado + Mongodb + Redis\r\n3. (2015) Nsfw-Website (On request only)\r\n * Adding new features to the adult industry\r\n * Technology: PHP(Phalcon) + MySQL + Redis + ElasticSearch\r\n4. (2014) [reversii.com](https://reversii.com)\r\n * Using google and tineye reverse search at the same time\r\n * Crop available before searching\r\n * Technology: NodeJS\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
